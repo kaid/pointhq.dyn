@@ -1,0 +1,5 @@
+* A trivial PointHQ.com dynamic DNS updater
+	Usage:
+	#+BEGIN_SRC sh
+    $ ccl -l ~/Workspace/pointhq.dyn/dyn.lisp
+	#+END_SRC
